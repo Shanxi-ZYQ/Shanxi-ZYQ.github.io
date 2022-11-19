@@ -280,7 +280,7 @@ nav {
 }
 
 header .nav-transparent {
-    background-color: transparent !important;
+    background-color: #26aa49 !important;
     background-image: none;
     box-shadow: none;
 }
@@ -564,7 +564,7 @@ header .go-back i {
     display: block;
     left: 0;
     top: 0;
-    content: "";
+    /*content: "";*/
 }
 
 .bg-cover .container {
@@ -597,7 +597,7 @@ header .go-back i {
 
     0%,
     100% {
-        background: rgba(156, 39, 176, 0.75);
+        background: rgba(155, 39, 176, 0.521);
         background: linear-gradient(45deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
