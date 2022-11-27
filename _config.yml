@@ -114,3 +114,11 @@ search:
 permalink_pinyin:
   enable: true
   separator: '-' # default: '-'
+
+#emoji
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
